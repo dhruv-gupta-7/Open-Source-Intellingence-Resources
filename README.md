@@ -93,17 +93,17 @@ Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-su
 
 BreachDirectory- https://breachdirectory.org/ (Free check email and username breaches)
 
-Dehashed - https://dehashed.com/
+Dehashed - https://dehashed.com/ (paid)
 
-WeLeakInfo - https://weleakinfo.to/v2/
+WeLeakInfo - https://weleakinfo.to/v2/  (paid)
 
-LeakCheck - https://leakcheck.io/
+LeakCheck - https://leakcheck.io/  (paid)
 
-SnusBase - https://snusbase.com/
+SnusBase - https://snusbase.com/ (paid)
 
-Scylla.sh - https://scylla.sh/
+Scylla.sh - https://scylla.sh/ (free tool with breached emails and pass)
 
-HaveIBeenPwned - https://haveibeenpwned.com/
+HaveIBeenPwned - https://haveibeenpwned.com/ (free but can only slows email or pass breached or not)
 
 ### Username OSINT
 
