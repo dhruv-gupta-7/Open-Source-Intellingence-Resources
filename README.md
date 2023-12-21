@@ -91,6 +91,8 @@ Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-su
 
 ### Password OSINT 
 
+BreachDirectory- https://breachdirectory.org/ (Free check email and username breaches)
+
 Dehashed - https://dehashed.com/
 
 WeLeakInfo - https://weleakinfo.to/v2/
